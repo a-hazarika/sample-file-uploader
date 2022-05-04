@@ -1,0 +1,11 @@
+.layout
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.imageSmall {
+    height: 10cm;
+    padding:10px;
+    object-fit: contain;
+}
